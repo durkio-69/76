@@ -9,8 +9,8 @@
 
 ### Usage:
 ```
-git clone https://github.com/xd20111/inshackle
-cd inshackle
-bash inshackle.sh
+git clone github.com/durkio-69/76.git
+cd 76
+bash 76.sh
 ```
 
